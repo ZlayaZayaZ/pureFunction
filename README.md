@@ -1,5 +1,7 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/c9uig9p2b9r73868?svg=true)](https://ci.appveyor.com/project/ZlayaZayaZ/purefunction)
 
+[Полная версия задания](https://github.com/netology-code/ajs-homeworks/tree/ajs8/test-ci)
+
 # Домашнее задание к лекции «Unit-тестирование»
 
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
